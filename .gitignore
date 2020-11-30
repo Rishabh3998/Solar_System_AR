@@ -63,4 +63,4 @@ crashlytics-build.properties
 *.fbx
 
 # Library
-Library/ArtifactDB
+/ArtifactDB
